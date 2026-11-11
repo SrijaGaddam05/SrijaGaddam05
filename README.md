@@ -214,24 +214,9 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SrijaGaddam05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrijaGaddam05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/2c9cf5/SrijaGaddam05" alt="Contribution Chart" width="90%" />
 
 </div>
-
-<!--
-OPTIONAL: Animated contribution snake.
-1. Add the file .github/workflows/snake.yml (included with this README)
-2. In your repo go to Actions → "Generate Snake" → Run workflow
-3. Once it finishes, delete the <!-- and --> markers around the image below
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SrijaGaddam05/SrijaGaddam05/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
--->
 
 ---
 
