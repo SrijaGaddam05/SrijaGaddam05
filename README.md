@@ -1,7 +1,7 @@
-\<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gaddam%20Srija&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20CSE%20(AI%20%26%20ML)%20Student&descAlignY=58&descSize=18" alt="Header banner" />
+<h1>Gaddam Srija</h1>
+<h3>Data Analyst | B.Tech CSE (AI &amp; ML) Student</h3>
 
 <!-- Animated typing text. Edit the lines= part to change the text (use + for spaces, ; between lines) -->
 <a href="https://srija-portfolio-rho.vercel.app/">
@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-srija--portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-srija--portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddam-srija-749230325)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddamsrija005@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SrijaGaddam05&label=Profile%20Views&color=2c5364&style=for-the-badge)
@@ -85,7 +85,7 @@ Analyzed **24,831 job records** to uncover hiring trends, in-demand skills, sala
 **Tech Stack:** `Python` `Pandas` `NumPy` `FastAPI` `HTML/CSS/JavaScript` `Pytest`
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories) <!-- UPDATE -->
-[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=vercel)](https://srija-portfolio-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=googlechrome)](https://srija-portfolio-rho.vercel.app/)
 
 <br/>
 
@@ -95,7 +95,7 @@ Analyzed marketing datasets to perform sentiment analysis, trend visualization, 
 **Tech Stack:** `Python` `NLP` `Pandas` `Matplotlib` `Seaborn`
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories) <!-- UPDATE -->
-[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=vercel)](https://srija-portfolio-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=googlechrome)](https://srija-portfolio-rho.vercel.app/)
 
 <br/>
 
@@ -105,7 +105,7 @@ A real-time gesture-based productivity system built with OpenCV and MediaPipe, s
 **Tech Stack:** `Python` `OpenCV` `MediaPipe` `Google GenAI API`
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories) <!-- UPDATE -->
-[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=vercel)](https://srija-portfolio-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=googlechrome)](https://srija-portfolio-rho.vercel.app/)
 
 ---
 
@@ -164,7 +164,7 @@ A real-time gesture-based productivity system built with OpenCV and MediaPipe, s
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddam-srija-749230325)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Srijj05)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddamsrija005@gmail.com)
@@ -174,6 +174,5 @@ A real-time gesture-based productivity system built with OpenCV and MediaPipe, s
 
 **⭐ Thanks for visiting! Let's turn data into insights together. ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" />
 
 </div>
