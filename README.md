@@ -6,9 +6,9 @@
 <tr>
 <td align="center" width="240">
 
-<!-- PHOTO: upload a square-cropped image to assets/profile.jpg in this repo.
+<!-- PHOTO: upload a square-cropped image to assets/profile.png in this repo.
      GitHub strips CSS, so crop it into a circle in your editor (or Canva) before uploading. -->
-<img src="assets/profile.jpg" width="200" alt="Gaddam Srija" />
+<img src="assets/profile.png" width="200" alt="Gaddam Srija" />
 
 </td>
 <td align="left" valign="middle">
