@@ -1,14 +1,29 @@
 <div align="center">
 
-<h1>Gaddam Srija</h1>
-<h3>📊 Data Analyst &nbsp;|&nbsp; 🎓 B.Tech CSE (AI &amp; ML) &nbsp;|&nbsp; 📍 Hyderabad, India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=140&section=header" width="100%" alt="" />
 
-<!-- Animated typing text. Edit lines= (use + for spaces, ; between lines) -->
-<a href="https://srija-portfolio-rho.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CF5&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Srija+Gaddam;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+raw+data+into+actionable+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Open+to+entry-level+Data+Analyst+roles+%F0%9F%9A%80" alt="Typing animation" />
-</a>
+<table>
+<tr>
+<td align="center" width="240">
 
-<br/><br/>
+<!-- PHOTO: upload a square-cropped image to assets/profile.jpg in this repo.
+     GitHub strips CSS, so crop it into a circle in your editor (or Canva) before uploading. -->
+<img src="assets/profile.jpg" width="200" alt="Gaddam Srija" />
+
+</td>
+<td align="left" valign="middle">
+
+# Gaddam Srija
+### 📊 Aspiring Data Analyst · 🎓 B.Tech CSE (AI & ML) · 📍 Hyderabad
+
+**I turn raw data into decisions.**
+Python · SQL · Pandas · Machine Learning
+
+🟢 *Open to entry-level Data Analyst roles & analytics internships*
+
+</td>
+</tr>
+</table>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddam-srija-749230325)
@@ -20,115 +35,50 @@
 
 ---
 
+## ⚡ At a Glance
+
+| 24,831 | 90.6% | 6/6 | 2027 |
+|:---:|:---:|:---:|:---:|
+| job records analyzed | skill-match accuracy (baseline) | Pytest tests passing | graduating |
+
+---
+
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+Final-year B.Tech student who loves finding the story hidden in data. I recently built a **Job Market Intelligence platform** on **24,000+ job records**, interned in data analytics at Neoskillz, and led a team at the **Smart India Hackathon**.
 
-<!-- UPDATE: Edit your bio here -->
-I'm a final-year B.Tech CSE (AI & ML) student in Hyderabad with a passion for turning raw data into clear, actionable insights. I enjoy working with Python, SQL, and Power BI, and recently built a Job Market Intelligence platform that analyzes **24,000+ job records**. I'm currently looking for an entry-level Data Analyst role where I can grow while solving real business problems with data.
+🎯 **Goal:** an entry-level Data Analyst role (or analytics internship) where I can use Python and SQL to support real business decisions, then grow toward analytics + machine learning.
 
-🎯 **Career Goals:** I'm looking for an entry-level **Data Analyst** role (or a Data Analytics internship) where I can apply my skills in Python, SQL, and Power BI to uncover insights and support data-driven decisions. Long term, I want to grow into a role that blends analytics with machine learning, helping teams turn data into smart, impactful solutions.
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-name:      Gaddam Srija
-role:      Student → Data Analyst
-education: B.Tech CSE (AI & ML)
-college:   Sri Indu Institute of Engg & Tech
-graduating: 2027
-location:  Hyderabad, India
-interests:
-  - Data Visualization
-  - Machine Learning
-  - AI / Generative AI
-learning:
-  - AWS
-  - Advanced Python Libraries
-```
-
-</td>
-</tr>
-</table>
-
-> 🎮 **Fun fact:** I've analyzed customer data on an online gaming platform, led a team at the Smart India Hackathon, and built a gesture-controlled workspace that lets me control my computer with just my hands, no mouse needed!
+> 🎮 **Fun fact:** I built a gesture-controlled workspace that lets me run my computer with just my hands. No mouse needed.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<!-- UPDATE: Icons come from skillicons.dev. Add or remove names in i=...  (full list: https://skillicons.dev) -->
-
 <div align="center">
 
-**Languages & Data**
-
-<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,js&theme=dark" alt="Languages" />
-
-**Backend, Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode,jupyter,opencv,sklearn,numpy,pandas,aws&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=python,mysql,java,html,css,js,fastapi,pandas,numpy,sklearn,opencv,jupyter,git,github,vscode&theme=dark" alt="Tech stack" />
 
 </div>
 
 <details>
-<summary><b>📋 Full skill breakdown (click to expand)</b></summary>
+<summary><b>📋 Full skill breakdown</b></summary>
 <br/>
 
 | Category | Skills |
 |---|---|
-| **Data Analysis** | Python, Pandas, NumPy, SQL, Data Cleaning, Preprocessing, EDA, Statistical Analysis |
-| **Visualization** | Power BI, Excel, Matplotlib, Seaborn, Dashboard-Ready Metrics |
-| **Database & Backend** | MySQL, Joins, Aggregations, Filtering, Grouping, FastAPI, Pytest |
-| **Machine Learning** | Scikit-learn, Feature Engineering, Encoding, Feature Scaling, Polynomial Features, PCA |
+| **Data Analysis** | Python, Pandas, NumPy, SQL, Data Cleaning, EDA, Statistical Analysis |
+| **Visualization** | Excel, Matplotlib, Seaborn |
+| **Database & Backend** | MySQL, Joins, Aggregations, FastAPI, Pytest |
+| **Machine Learning** | Scikit-learn, Feature Engineering, Encoding, Scaling, PCA |
 | **NLP & AI** | Text Preprocessing, NLP, Generative AI, Prompt Engineering, Computer Vision |
-| **Tools** | Google Colab, Jupyter Notebook, Git/GitHub, VS Code, MySQL Workbench |
-
-</details>
-
----
-
-## 💼 Experience
-
-```mermaid
-timeline
-    title My Journey
-    2023 : Started B.Tech in CSE (AI & ML)
-    2024 : Deloitte Data Analytics Virtual Simulation (Forage)
-         : Built MarketMind AI
-    2025 : Built AI Hand Workspace
-    2026 : Data Analytics Intern at Neoskillz
-         : Customer Support Executive at Winzee
-         : Built JobMarket Intelligence Platform
-```
-
-<details open>
-<summary><b>📊 Data Analytics Intern, Neoskillz (2026, 2 months)</b></summary>
-
-- Explored, cleaned, and preprocessed structured datasets using Python, SQL, and Pandas
-- Performed EDA and visualized trends with Matplotlib and Seaborn
-- Practiced feature engineering: encoding, feature scaling, and PCA
-- Hands-on MySQL query writing and joins; foundational training in NLP and Generative AI
-
-</details>
-
-<details>
-<summary><b>🎧 Customer Support Executive, Winzee (May – Jun 2026)</b></summary>
-
-- Tracked and analyzed high-volume customer interaction data to find recurring patterns
-- Applied data-driven problem-solving to improve resolution speed and accuracy
-- Reported issue trends to cross-functional teams
+| **Tools** | Google Colab, Jupyter, Git/GitHub, VS Code, MySQL Workbench |
 
 </details>
 
 ---
 
 ## 🚀 Featured Projects
-
-<!-- UPDATE: Replace each repo link with the exact URL, e.g. https://github.com/SrijaGaddam05/your-repo-name -->
 
 <table>
 <tr>
@@ -137,9 +87,9 @@ timeline
 ### 📊 JobMarket Intelligence
 **Data Analytics Platform**
 
-Analyzed **24,831 job records** for hiring trends, in-demand skills, salary benchmarks, and location insights. Includes a Career Advisor with **90.6% baseline skill matching** for Data Analyst roles and an interactive dashboard (Pytest: 6/6 passing).
-
-`Python` `Pandas` `NumPy` `FastAPI` `JavaScript` `Pytest`
+**What I Did:** Analyzed 24,831 job records for hiring trends, skills demand, salaries, and locations. Built a Career Advisor and interactive dashboard.
+**Tools:** `Python` `Pandas` `NumPy` `FastAPI` `JavaScript` `Pytest`
+**Impact:** 90.6% baseline skill matching for Data Analyst roles; 6/6 tests passing.
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories)
 
@@ -147,11 +97,11 @@ Analyzed **24,831 job records** for hiring trends, in-demand skills, salary benc
 <td width="50%" valign="top">
 
 ### 🧠 MarketMind AI
-**Marketing Data Analytics Platform**
+**Marketing Analytics Platform**
 
-Sentiment analysis, trend visualization, and sales forecasting on marketing datasets. Applied NLP (tokenization, feature extraction) to classify customer feedback and delivered stakeholder-ready insight reports.
-
-`Python` `NLP` `Pandas` `Matplotlib` `Seaborn`
+**What I Did:** Ran sentiment analysis, trend visualization, and sales forecasting on marketing data.
+**Tools:** `Python` `NLP` `Pandas` `Matplotlib` `Seaborn`
+**Impact:** Classified customer feedback with NLP and delivered stakeholder-ready insight reports.
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories)
 
@@ -161,23 +111,23 @@ Sentiment analysis, trend visualization, and sales forecasting on marketing data
 <td width="50%" valign="top">
 
 ### 🖐️ AI Hand Workspace
-**Computer Vision & Generative AI System**
+**Computer Vision & GenAI**
 
-Real-time gesture-based productivity system with low-latency, concurrent inference. Uses the Google GenAI API with prompt engineering and function-calling for intelligent, automated feature activation.
-
-`Python` `OpenCV` `MediaPipe` `Google GenAI API`
+**What I Did:** Built a real-time gesture-based productivity system with concurrent, low-latency inference.
+**Tools:** `Python` `OpenCV` `MediaPipe` `Google GenAI API`
+**Impact:** Hands-free control with prompt-engineered, function-calling automation.
 
 [![Code](https://img.shields.io/badge/View%20Code-181717?style=flat-square&logo=github)](https://github.com/SrijaGaddam05?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Deloitte Data Analytics Simulation
+### 🏢 Deloitte Analytics Simulation
 **Forage Virtual Experience**
 
-Analyzed real-world structured datasets to identify patterns and generate insight reports, then delivered stakeholder-facing summaries with clear business recommendations.
-
-`Data Analysis` `Reporting` `Business Insights`
+**What I Did:** Analyzed real-world structured datasets and presented findings to stakeholders.
+**Tools:** `Data Analysis` `Reporting` `Business Insights`
+**Impact:** Delivered clear business recommendations from pattern analysis.
 
 [![Portfolio](https://img.shields.io/badge/See%20in%20Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
 
@@ -201,6 +151,29 @@ flowchart LR
 
 ---
 
+## 💼 Experience
+
+<details open>
+<summary><b>📊 Data Analytics Intern, Neoskillz (2026 · 2 months)</b></summary>
+
+- Cleaned and preprocessed structured datasets with Python, SQL, and Pandas
+- Ran EDA and visualized trends with Matplotlib and Seaborn
+- Practiced feature engineering: encoding, scaling, PCA
+- Wrote MySQL queries and joins; trained in NLP and Generative AI
+
+</details>
+
+<details>
+<summary><b>🎧 Customer Support Executive, Winzee (May – Jun 2026)</b></summary>
+
+- Analyzed high-volume customer interaction data to spot recurring issues
+- Improved resolution speed and accuracy with data-driven problem solving
+- Reported issue trends to cross-functional teams
+
+</details>
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -208,11 +181,7 @@ flowchart LR
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SrijaGaddam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijaGaddam05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=SrijaGaddam05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 
 <img src="https://ghchart.rshah.org/2c9cf5/SrijaGaddam05" alt="Contribution Chart" width="90%" />
 
@@ -222,39 +191,37 @@ flowchart LR
 
 ## 🏆 Achievements & Certifications
 
-<!-- UPDATE: Add new certifications here -->
-
 | | Achievement |
 |---|---|
 | 📗 | **Microsoft Office Specialist** (Excel, Word, PowerPoint) |
-| 🗄️ | **MySQL Using AI Certification**: queries, joins, aggregations, AI-assisted database tasks |
-| 🐍 | **Python Essentials 2**: Cisco Networking Academy with OpenEDG Python Institute (Sep 2026) |
-| ☕ | **Apna College Alpha Program**: DSA with Java, 50+ LeetCode problems solved |
+| 🗄️ | **MySQL Using AI Certification** |
+| 🐍 | **Python Essentials 2**, Cisco Networking Academy × OpenEDG (Sep 2026) |
+| ☕ | **Apna College Alpha Program**: DSA with Java, 50+ LeetCode problems |
 | 🏅 | **Smart India Hackathon**: Team Leader |
 | 🚀 | **NxtWave Buildathon**: Participant |
 | 🎤 | **Academic Poster Presenter** (AI/ML) |
-| 💼 | **Deloitte Data Analytics Virtual Simulation** (Forage) |
+| 💼 | **Deloitte Data Analytics Simulation** (Forage) |
 
 ---
 
-## 📚 Currently Learning &nbsp;&amp;&nbsp; 🤝 Open to Collaborate
+## 📚 Learning & 🤝 Collaborating
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📚 Learning
-- ☁️ **AWS**
-- 🐍 **Advanced Python Libraries** (like Seaborn)
+- ☁️ AWS
+- 🐍 Advanced Python libraries
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Collaborate On
-- 📊 **Data analytics projects**: dashboards, EDA, insight reports
-- 🌐 **Open-source projects**: Python and data tooling
-- 🤖 **ML & Generative AI**: NLP, computer vision, AI tools
-- 🎓 **Research projects**: AI/ML and data science
+### 🤝 Open to Collaborate On
+- 📊 Dashboards, EDA, insight reports
+- 🌐 Open-source Python & data tooling
+- 🤖 NLP, computer vision, GenAI
+- 🎓 AI/ML research
 
 </td>
 </tr>
@@ -262,18 +229,10 @@ flowchart LR
 
 ---
 
-## 📬 Connect With Me
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srija-portfolio-rho.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaddam-srija-749230325)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Srijj05)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddamsrija005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrijaGaddam05)
+**⭐ Thanks for visiting. Let's turn data into insights together. ⭐**
 
-<br/>
-
-**⭐ Thanks for visiting! Let's turn data into insights together. ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%" alt="" />
 
 </div>
